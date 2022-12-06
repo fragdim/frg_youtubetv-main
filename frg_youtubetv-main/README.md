@@ -1,0 +1,1 @@
+basic sript který umožní sledovat jakékoliv videa z yt na jakym koliv propu TV :)
